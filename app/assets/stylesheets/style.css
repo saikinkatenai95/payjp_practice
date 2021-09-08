@@ -1,0 +1,27 @@
+.card-form{
+  width: 500px;
+}
+
+.form-wrap{
+  display: flex;
+  flex-direction: column;
+}
+
+.exp_month{
+  resize:none;
+}
+
+.exp_year{
+  resize:none;
+}
+
+.input-expiration-date-wrap{
+  display: flex;
+}
+
+
+.button{
+  margin-top: 30px;
+  height: 30px;
+  width: 100px;
+}
